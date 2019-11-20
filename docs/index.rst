@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to hack-vic-discord-docs's documentation!
-=================================================
+Welcome to the Hack-Vic discord docs!
+====================================================
 
 .. toctree::
    :maxdepth: 2
@@ -13,10 +13,17 @@ Welcome to hack-vic-discord-docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Important Information
+   :caption: Server
 
    basics/rules
    basics/roles
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Guides
+
+   guides/notifications
 
 
 Indices and tables
